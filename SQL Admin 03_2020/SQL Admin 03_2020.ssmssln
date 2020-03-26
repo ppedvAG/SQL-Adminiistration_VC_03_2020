@@ -60,25 +60,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Richtlinien", "Richtlinien"
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Indizes", "Indizes", "{F5FAAC49-4368-4C14-AE84-C6707F8F8829}"
-	ProjectSection(SolutionItems) = preProject
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\I_Überflüssige IX.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\I_Überflüssige IX.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\II_Fehlende Indizes.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\II_Fehlende Indizes.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\IX Vorschlag.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Indizes\IX Vorschlag.sql
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DMVs", "DMVs", "{2A85D0B1-78FF-43A6-9BB2-B8E64F9804B8}"
-	ProjectSection(SolutionItems) = preProject
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000F_IO Perf.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000F_IO Perf.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000G_Largest IOS.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000G_Largest IOS.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000K_ShowIOBottlenecksSQL2012.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000K_ShowIOBottlenecksSQL2012.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000M_Teueste Abfragen nach_IO.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\000M_Teueste Abfragen nach_IO.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\IO DB Bottleneck.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\IO DB Bottleneck.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\IO Perf.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\IO Perf.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\Largest IOS.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\Largest IOS.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\Pläne im RAM.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\Pläne im RAM.sql
-		\\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\SQL Server 2019 Diagnostic Information Queries.sql = \\nodeone\c$\Users\Administrator.SQLDOM\Desktop\Scripte\Monitoring\SQL Server 2019 Diagnostic Information Queries.sql
-		..\WAIT_STATS.sql = ..\WAIT_STATS.sql
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FirstResponderKit", "FirstResponderKit", "{53313CE4-8227-4667-BED9-14B4DF68BD7C}"
 	ProjectSection(SolutionItems) = preProject
@@ -122,7 +105,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D560E31E-705F-4C84-B1F3-2D452F4673DB}.Default|Default.ActiveCfg = Default
-		{EFF2EAD8-AAB6-48A1-B521-CD207A277B80}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

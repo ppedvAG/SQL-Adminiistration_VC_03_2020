@@ -121,6 +121,72 @@
           <AssociatedConnUserName />
           <FullPath>0014_Monitoring.sql</FullPath>
         </FileNode>
+        <FileNode Name="DMV_IO DB Bottleneck.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_IO DB Bottleneck.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_IO Perf.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_IO Perf.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_Largest IOS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_Largest IOS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_Pläne im RAM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_Pläne im RAM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_ShowIOBottlenecksSQL2012.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_ShowIOBottlenecksSQL2012.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_SQL Server 2019 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_SQL Server 2019 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_Teueste Abfragen nach_IO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_Teueste Abfragen nach_IO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DMV_WAIT_STATS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DMV_WAIT_STATS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="I_Überflüssige IX.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>I_Überflüssige IX.sql</FullPath>
+        </FileNode>
+        <FileNode Name="II_Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>II_Fehlende Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="III Index_Vorschlag.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>III Index_Vorschlag.sql</FullPath>
+        </FileNode>
         <FileNode Name="instnwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
